@@ -12,7 +12,6 @@
         <maven.compiler.target>1.7</maven.compiler.target>
         
         <checkstyle.skip>false</checkstyle.skip>
-        <findbugs.skip>false</findbugs.skip> 
         <checkstyle.config.location>checkstyle.xml</checkstyle.config.location>       
     </properties>
     
